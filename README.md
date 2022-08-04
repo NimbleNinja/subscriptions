@@ -1,6 +1,6 @@
 # Subscriptions project for Collaborator
 
-Current project version on [GitHub Pages]().
+Current project version on [GitHub Pages](https://nimbleninja.github.io/subscriptions/).
 
 ## Description
 
